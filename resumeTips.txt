@@ -1,0 +1,100 @@
+https://www.youtube.com/watch?v=RKM_LZ0ujX8
+Who you are
+What you've accomplished
+Summary of skills
+
+Aggregate totals
+ - What are you actually doing; think of terms noun +verb;
+
+Employers are simple
+	- they want to:
+	• generate revenue
+	• save costs
+	• optimize the foundation, structure, processes
+	  so that their company is healthy and successful;
+
+What have you done that has had impact, and you're proud of?
+^Not necessarily linked to *work*
+
+People think in terms of time
+they want to see a track record of
+•achievements
+•decisions youve made
+•your evolution in, and across companies
+THEY CANNOT DO THIS IF YOU LIST RESPONSABILITIES
+	AT THE SAME LEVEL (INDENTATION) AS NAMES AND TITLES
+try to indent the latter;
+
+*try* to how a nice evolution across titles;
+
+underneath the company name put a one sentence description
+of what that company does, their goal, or their impact on the world;
+
+under title
+mini collection of highlights or responsabilities that you can give the person
+without having to read ALL the bullets, DONT ASSUME THEYRE READING ALL OF THEM
+
+◘THEY READ AN OUTLINE, ENTINCE THEM TO READ FURTHER;
+
+Don't do this -> Activity based resumes which say what you were responsible for
+
+•Do this -> Accomplishments benefits based resumes, which say what contribution or benefit was to
+the company, clients, employees was.
+
+
+Who are you
+Who have you been
+Where are you
+Where have you been
+
+
+◘Can someone who's not 100% in your field understand your resume?
+
+Think about the road/role you're trying to go for, and then target your resume to apply to
+that specific role;
+For soft engineering you'd expect created, implemented, developed in xxxx;
+Do tell what languages you're using in those descriptions.
+◘High quality bullet points
+Have very little bullet points, but describe them.
+◘Be concise, prune out irrelevant info.
+
+
+
+Structure in terms of:
+challenges
+accomplishments
+results
+
+In two months learned x language, met y deadline, implemented z, launched to some result
+	generated revenue, used by some people, impact on the press,
+
+use active verbs implementED, creatED, developed, launched, architected, led, design,
+
+Don't mention only what your team did, what the project was, say what YOU did;
+
+◘It's not about accomplishments, it's about the path you took to get them.
+Explain what type of person you were as you went through your experiences, 
+what your story was.
+◘You had to learn something very quickly,
+◘you had to work with a team and it was challenging,
+◘you overcame conflict
+◘accep feedback and change the product quickly, pivot, and take in reactions,
+	iterated quickly,
+◘techincal challenges, had to new sleugh of new technologies, and languages
+
+***SINCE YOUR ACCOMPLISHMENTS ARE LITTLE, FOCUS ON YOUR PERSONALITY,
+	CHARACTER, WORK ETHIC, PASSION FOR BUILDING, INITIATIVE, LEARNING NEW LANGUAGES, 
+	PUTTING IN THE TIME, PICKING UP NEW TECHNOLOGIES, YOU'RE COLLABORATIVE, 
+	COME UP WITH PROJECT IDEAS, HOOK UP API END POINTS, LEARN NEW TECHNOLOGIES
+
+
+
+searchable, keywords
+tech resume has a section with a bunch of keywords c++ java js mysql python php oC swift android iOS Angular Kotlin
+	order those in from most experienced to least experienced
+
+
+it's like photography, everyone can take a good picture, but the good photographers know
+which picture is good, and only show that.
+
+cover letters can be more casual;
