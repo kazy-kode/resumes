@@ -4,29 +4,53 @@
 \fancyhf{}
 \begin{document}
 \lastupdated
-\namesection{Camilo}{Suñer}{ 
- +54 9 11-5487-1532 \\
-{www.linkedin.com/in/camiloSuner} | {camilosuner@gmail.com} | {https://github.com/kazy-kode}
+\namesection{Camilo}{Suñer}{
++54 9 11-5487-1532 \\
+\urlstyle{same}
+\href{https://www.linkedin.com/in/camiloSuner}
+{linkedin.com/in/camiloSuner} | \href{mailto:camilosuner@gmail.com}{camilosuner@gmail.com} | \href{https://github.com/kazy-kode}{github.com/kazy-kode}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-%     COLUMN ONE
+% COLUMN ONE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.33\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EDUCATION
+% SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Educación} 
+\section{Habilidades}
+\subsection{Técnicas}
+\location{Competente con:}
+core javaScript (ES6) \textbullet{} React \textbullet{} Redux \textbullet{} Node.jS (Express) \textbullet{}  
+PSQL \textbullet{} Sequelize \textbullet{} Passport \textbullet{} CSS/SASS \textbullet{} StyledComponents\\
+\location{Familiar con:}
+Socket.io \textbullet{} TDD \textbullet{} MongoDB \textbullet{} Docker \textbullet{} RESTful APIs \\
+\location{Aprendiendo:}
+C \textbullet{} Python
+\sectionsep
+
+\subsection{Blandas:}
+\location{Fuertes:}
+Iniciativa \textbullet{} Planificación \textbullet{} Trabajo en equipo \textbullet{} Enseñanza \textbullet{} Oratoria \textbullet{} Comunicación Bilingue (Inglés y español) \\
+\location{Experiencia con:}
+Scrum (desarrollo ágil)
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Educación}
 
 \subsection{Plataforma 5 \newline Coding Bootcamp}
 \descript{Ingeniero de Software Full Stack}
 \location{Dic 2019 | BA, Argentina}
-Curricula: Full Stack javaScript y ciencias de la computación, con foco en stack SERN. 600 horas en un periodo de 3 meses.
+Curricula: Full Stack javaScript y ciencias de la computación, con foco en stack SERN. 730 horas en un periodo de 3 meses.
 \sectionsep
 
 \subsection{HarvardX}
@@ -40,66 +64,64 @@ Programa introductorio a las ciencias de la computación, aprendiendo conceptos 
 \location{May 2013 - 2016}
 \sectionsep
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SKILLS
+% HOBBIES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Habilidades}
-\subsection{Tecnicas}
-\location{Competente con:}
-core javaScript (ES6) \textbullet{}   React \textbullet{} Redux \textbullet{} Node.jS (Express) \textbullet{}  
-PSQL \textbullet{} Sequelize \textbullet{} Passport \textbullet{} CSS/SASS \textbullet{} StyledComponents\\ 
-\location{Familiar with:}
-Socket.io \textbullet{} TDD \textbullet{} MongoDB \textbullet{} Docker \textbullet{} RESTful APIs \\
-\location{Learning:}
-C \textbullet{} Python 
+\section{Otros}
+\runsubsection{Intereses}\\
+\descript{}\\
+\location{}\\
+Ejercitar \textbullet{} Leer investigaciones médicas \textbullet{} Películas\\
 \sectionsep
 
-\subsection{Habilidades blandas:}
-\location{Strong:}
-Iniciativa \textbullet{}  Planificacion \textbullet{} Enseñanza \textbullet{} Oratoria \textbullet{} Comunicacion Bilingue (Ingles y español) \\
-\location{Experiencia con:}
-Scrum (desarrollo agil)
+\runsubsection{Hobbies}\\
+\descript{}\\
+\location{}\\
+Degustar café \textbullet{} Jugar \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-%     COLUMN TWO
+% COLUMN TWO
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\end{minipage} 
+\end{minipage}
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{0.66\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EXPERIENCE
+% EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Proyectos Tecnicos}
+\section{Proyectos Técnicos}
 \runsubsection{DevFlow}
 \descript{| Plataforma de reclutamiento | Proyecto final}
 Plataforma que conecta empresas de tecnología con servicios de capital humano. Se estima para el primer año 150 suscriptos, con 4000 candidatos cargados en el sistema.
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item 
+\item
 Construí la plataforma en stack SERN con React-Redux, y la estilicé con la librería styled components.
 \item Consistentemente ofrecí, y me pidieron ayuda mis pares.
 \end{tightemize}
 \sectionsep
+\sectionsep
 
+\section{Experiencia Laboral}
 \runsubsection{Traductor freelance}
+\descript{}
 \location{Jul 2017 – Sep 2019 | BA, Argentina}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Traducí mas de 50 publicaciones académicas, principalmente en el area socioeconomica.
 \end{tightemize}
 \sectionsep
 
 \runsubsection{Hy Cyte, LLC}
-\descript{| Verificador de creditos }
+\descript{| Verificador de créditos }
 \location{Jan 2017 – Jul 2017 | BA, Argentina}
+Empresa internacional de préstamos para consumidores.
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Aprové y manejé créditos para pequeñas empresas, y residentes estadounidenses.
@@ -112,6 +134,7 @@ Construí la plataforma en stack SERN con React-Redux, y la estilicé con la lib
 \descript{| Coordinador de Marketing }
 \location{Ene 2016 – Dic 2016 | Madrid, España \& BA, Argentina}
 Empresa de marketing, con foco en medios digitales. Tres subsidiarias dependian plenamente de ella.
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Coordiné procesos para más de 10 campañas, cada una con un presupuesto de €5.000 - 10.000, incluyendo crear calendarios de campaña y sociales.
 \item Creé nuevas oportunidades para las compañías acercándome a negocios tradicionales madrilenses.
@@ -120,10 +143,11 @@ Empresa de marketing, con foco en medios digitales. Tres subsidiarias dependian 
 \sectionsep
 
 \section{Trabajo Voluntario}
-\runsubsection{Fundacion Leer}
+\runsubsection{Fundación Leer}
 \descript{| Office Manager}
 \location{May 2015 - Dec 2015 | BA, Argentina}
 ONG que trabaja con el objetivo de la alfabetización de la gente marginalizada. Trabaje como voluntario tiempo completo.
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Organicé eventos nacionales, y otros específicos a provincias.
 Éstos eventos alcanzaron mas de 1000 escuelas y centros de enseñanza. Creé y soporté un vínculo con los abastecedores de bienes físicos, y capital humano necesitados para realizar esos eventos.
@@ -131,15 +155,5 @@ ONG que trabaja con el objetivo de la alfabetización de la gente marginalizada.
 \end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Otros}
-\runsubsection{Hobbies}\\
-\descript{}\\
-\location{}\\
-Ejercitar  \textbullet{} Leer investigaciones médicas \textbullet{} Degustar café \textbullet{} Jugar
-\sectionsep
-\end{minipage} 
-\end{document}  \documentclass[]{article}
+\end{minipage}
+\end{document} \documentclass[]{article}
