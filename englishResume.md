@@ -77,7 +77,7 @@ Reading medical research \textbullet{} Movies \\
 \runsubsection{Hobbies}\\
 \descript{}\\
 \location{}\\
-Coffee Tasting \textbullet{} Gaming
+Coffee Tasting \textbullet{} Game Dev'ing
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
