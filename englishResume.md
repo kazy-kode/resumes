@@ -17,7 +17,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth}
+\begin{minipage}[t]{0.29\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % SKILLS
@@ -103,6 +103,16 @@ Platform that connects tech companies with HR services. Its projected userbase f
 \begin{tightemize}
 \item Built the platform in SERN stack with React-Redux, stylized with styled components library.
 \item Consistently offered to help, and was asked to help other groups by my peers.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{jS Clothing}
+\descript{| eCommerce }
+Single Page Application eCommerce.
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Modeled the database, and programmed all queries.
+\item Reestructured the landing page, and the user flow.
 \end{tightemize}
 \sectionsep
 
