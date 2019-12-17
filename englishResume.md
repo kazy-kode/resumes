@@ -102,7 +102,7 @@ Platform that connects tech companies with HR services. Its projected userbase f
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Built the platform in SERN stack with React-Redux, stylized with styled components library.
-\item Consistently offered to help, and was asked to help other groups by my peers.
+\item Consistently offered to help, and was asked to help in other projects by my peers.
 \end{tightemize}
 \sectionsep
 
