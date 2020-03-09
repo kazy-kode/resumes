@@ -110,7 +110,7 @@ Platform that connects tech companies with HR services. Its userbase has reached
 \begin{tightemize}
 \item Single Page Application eCommerce.
 \item IMDB-like app to find movies, series, or books.
-\item (WIP) Expense tracker with React Native, NestJS, and GraphQL.
+\item (WIP) Expense tracker with TS, React Native, NestJS, and GraphQL.
 \end{tightemize}
 \sectionsep
 
