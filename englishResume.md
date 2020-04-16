@@ -113,7 +113,7 @@ Platform connecting companies with IT. Userbase of aprox. 5000. (React-Redux, Ex
 \section{Work Experience}
 \runsubsection{Software Developer}
 \descript{| Kelsus Inc.}
-\location{Jan 2020 - Present | Remote}
+\location{Dec 2019 - Present | Remote}
 \begin{tightemize}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \item Built API integrations for a reseller platform, including tests, docs, and developer guides for each integration.
