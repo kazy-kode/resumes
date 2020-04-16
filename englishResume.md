@@ -26,16 +26,16 @@
 \section{Skills}
 \subsection{Technical}
 \location{Proficient with:}
-javaScript (ES10) \textbullet{} Node.jS \textbullet{} React \textbullet{} Redux \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize Passport \textbullet{} CSS/SASS \textbullet{} StyledComponents\\
+javaScript (ES10) \textbullet{} Node.jS \textbullet{} React \textbullet{} Redux \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize Passport CSS/SASS \textbullet{} StyledComponents\\
 \location{Familiar with:}
-Socket.io \textbullet{} TDD \textbullet{} MongoDB \textbullet{} Docker \textbullet{} RESTful APIs \\
+TDD \textbullet{} Python \textbullet{} Typescript \textbullet{} Mocha/Chai \textbullet{} Design patterns (theory) \textbullet{} MongoDB \textbullet{} RESTful APIs \\
 \location{Learning:}
-\textbullet{} NestJS \textbullet{} C \textbullet{} React Native \textbullet{} GraphQL \textbullet{} JSDoc
+NestJS \textbullet{} React Native \textbullet{} GraphQL
 \sectionsep
 
 \subsection{Soft}
 \location{Strong:}
-Initiative \textbullet{} Planning \textbullet{} Teamwork \textbullet{} Teaching \textbullet{} Public Speaking \textbullet{} Bilingual communication (English and spanish) \\
+Initiative \textbullet{} Planning \textbullet{} Teamwork Teaching \textbullet{} Public Speaking \\
 \location{Some experience with:}
 Scrum (agile development)
 \sectionsep
@@ -46,16 +46,22 @@ Scrum (agile development)
 
 \section{Education}
 
+\subsection{Codecademy}
+\descript{Computer science}
+\location{Apr 2020 - ongoing | 8/14 units}
+Computer science fundamentals with Python and OOP.
+\sectionsep
+
 \subsection{Plataforma 5 \newline Coding Bootcamp}
-\descript{Full Stack Software Engineer}
+\descript{Full Stack Developer}
 \location{Dec 2019 | BA, Argentina}
-Full Stack javaScript and Computer Science with focus on React-Redux, Node, Express, Sequelize stack. 730 hours in a 3½ month span.
+In javaScript. Focus on React-Redux, Node, Express. 730 hours in a 3½ month span.
 \sectionsep
 
 \subsection{HarvardX}
 \descript{cs50: Intro to computer science}
-\location{Dec 2019 - ongoing}
-Introductory program to computer science, learning about concepts such as algorithms and data structures, and languages C, Python, and SQL.
+\location{Dec 2019 - Jan 2020}
+Introductory program to Computer science; C, Python, and SQL.
 \sectionsep
 
 \subsection{UADE}
@@ -94,23 +100,13 @@ Coffee Tasting \textbullet{} Game Dev'ing
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Technical Projects}
-\runsubsection{DevFlow}
-\descript{| Recruiting Platform | Bootcamp Final Project}
-Platform that connects tech companies with HR services. Its userbase has reached 150 since launch, with 4000 candidates loaded onto the system.
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Built the platform with React-Redux, Node, Express, Sequelize, and Styled Components.
-\item Consistently offered to help, and was asked to help in other projects by my peers.
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Other Projects}
-\descript{}
-\begin{tightemize}
-\item Single Page Application eCommerce.
-\item IMDB-like app to find movies, series, or books.
-\item (WIP) Expense tracker with TS, React Native, NestJS, and GraphQL.
+\item \textbf{Devflow} (Bootcamp Final Project) -
+Platform connecting companies with IT. Userbase of aprox. 5000. (React-Redux, Express, Sequelize, Styled Comps.)
+\item \textbf{jS} - SPA eCommerce (React, Node, Express, Sequelize)
+\item \textbf{Cryptid} - CLI program to check on cryptocurrencies. (Node.)
+\item \textbf{Hoard} - Expense tracker - WIP - (TS, React Native, NestJS, GraphQL.)
 \end{tightemize}
 \sectionsep
 
