@@ -48,14 +48,14 @@ Scrum (agile development)
 
 \subsection{Codecademy}
 \descript{Computer science}
-\location{Apr 2020 - ongoing | 8/14 units}
+\location{Apr 2020 | 200hs}
 Computer science fundamentals with Python and OOP.
 \sectionsep
 
 \subsection{Plataforma 5 \newline Coding Bootcamp}
 \descript{Full Stack Developer}
-\location{Dec 2019 | BA, Argentina}
-In javaScript. Focus on React-Redux, Node, Express. 730 hours in a 3½ month span.
+\location{Oct - Dec 2019 | 730hs }
+Javascript. Focus on React-Redux, Node, Express. Built an app for an external customer.
 \sectionsep
 
 \subsection{HarvardX}
