@@ -102,11 +102,11 @@ Coffee Tasting \textbullet{} Game Dev'ing
 \section{Technical Projects}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
+\item \textbf{Cryptid} - CLI program to check on cryptocurrencies. (Node.)
+\item \textbf{Hoard} - Expense tracker - WIP - (TS, React Native, NestJS, GraphQL.)
 \item \textbf{Devflow} (Bootcamp Final Project) -
 Platform connecting companies with IT. Userbase of aprox. 5000. (React-Redux, Express, Sequelize, Styled Comps.)
 \item \textbf{jS} - SPA eCommerce (React, Node, Express, Sequelize)
-\item \textbf{Cryptid} - CLI program to check on cryptocurrencies. (Node.)
-\item \textbf{Hoard} - Expense tracker - WIP - (TS, React Native, NestJS, GraphQL.)
 \end{tightemize}
 \sectionsep
 
