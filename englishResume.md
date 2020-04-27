@@ -121,6 +121,15 @@ US based software outsourcing company.
 \end{tightemize}
 \sectionsep
 
+\runsubsection{Academic Translator}
+\descript{| Freelance }
+\location{Jul 2017 – Sep 2019 | Remote }
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Translated academic economic and social studies academic publishings.
+\end{tightemize}
+\sectionsep
+
 \runsubsection{Credit Agent}
 \descript{| Hy Cyte, LLC }
 \location{Jan 2017 – Jul 2017 | BA, Argentina}
