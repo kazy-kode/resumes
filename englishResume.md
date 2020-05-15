@@ -26,7 +26,7 @@
 \section{Skills}
 \subsection{Technical}
 \location{Proficient with:}
-javaScript (ES10) \textbullet{} Node.jS \textbullet{} React \textbullet{} Redux \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize Passport CSS/SASS \textbullet{} StyledComponents\\
+javaScript (ES6+/Next) \textbullet{} Node.jS \textbullet{} React \textbullet{} Redux \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize Passport CSS/SASS \textbullet{} StyledComponents\\
 \location{Familiar with:}
 TDD \textbullet{} Python \textbullet{} Typescript \textbullet{} Mocha/Chai \textbullet{} Design patterns (theory) \textbullet{} MongoDB \textbullet{} RESTful APIs \\
 \location{Learning:}
@@ -99,14 +99,24 @@ Coffee Tasting \textbullet{} Game Dev'ing
 % EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Technical Projects}
+\section{Projects}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item \textbf{Cryptid} - CLI program to check on cryptocurrencies. (Node.)
-\item \textbf{Hoard} - Expense tracker - WIP - (TS, React Native, NestJS, GraphQL.)
-\item \textbf{Devflow} (Bootcamp Final Project) -
+\item
+\textbf{Pokefinder} - App displaying pokemon sprites and info (Typescript, React.)
+
+\item
+\textbf{Cryptid} - CLI program to check on cryptocurrencies. (Node.)
+
+\item
+\textbf{jS} - SPA eCommerce (React, Node, Express, Sequelize)
+
+\item
+\textbf{Devflow} (Bootcamp Final Project) -
 Platform connecting companies with IT. Userbase of aprox. 5000. (React-Redux, Express, Sequelize, Styled Comps.)
-\item \textbf{jS} - SPA eCommerce (React, Node, Express, Sequelize)
+
+\item
+\textbf{Hoard} - Expense tracker - WIP - (TS, React Native, NestJS, GraphQL.)
 \end{tightemize}
 \sectionsep
 
@@ -117,7 +127,7 @@ Platform connecting companies with IT. Userbase of aprox. 5000. (React-Redux, Ex
 US based software outsourcing company.
 \begin{tightemize}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\item Built API integrations for a reseller platform, including tests, docs, and developer guides for each integration.
+\item Node.js — Built API integrations for a reseller platform, including tests, docs, and developer guides for each integration.
 \end{tightemize}
 \sectionsep
 
