@@ -26,7 +26,7 @@
 \section{Skills}
 \subsection{Technical}
 \location{Proficient with:}
-javaScript (ES6+/Next) \textbullet{} Node.jS \textbullet{} React \textbullet{} Redux \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize Passport CSS/SASS \textbullet{} StyledComponents\\
+javaScript (ES6+/Next) \textbullet{} Node.jS \textbullet{} React \textbullet{} Redux \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize\textbullet{} Passport\textbullet{} CSS/SASS StyledComponents\\
 \location{Familiar with:}
 TDD \textbullet{} Python \textbullet{} Typescript \textbullet{} Mocha/Chai \textbullet{} Design patterns (theory) \textbullet{} MongoDB \textbullet{} RESTful APIs \\
 \location{Learning:}
@@ -127,7 +127,8 @@ Platform connecting companies with IT. Userbase of aprox. 5000. (React-Redux, Ex
 US based software outsourcing company.
 \begin{tightemize}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\item Node.js, Sequelize, Mocha, Chai, — Built API integrations for a reseller platform, including tests, docs, and developer guides for each integration.
+\item Developed API integrations, including tests, docs, and developer guides for each integration. (Node.js, Sequelize, Mocha, Chai.)
+\item Onboarded junior software engineers.
 \end{tightemize}
 \sectionsep
 
