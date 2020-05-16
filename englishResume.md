@@ -127,7 +127,7 @@ Platform connecting companies with IT. Userbase of aprox. 5000. (React-Redux, Ex
 US based software outsourcing company.
 \begin{tightemize}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\item Node.js — Built API integrations for a reseller platform, including tests, docs, and developer guides for each integration.
+\item Node.js, Sequelize, Mocha, Chai, — Built API integrations for a reseller platform, including tests, docs, and developer guides for each integration.
 \end{tightemize}
 \sectionsep
 
