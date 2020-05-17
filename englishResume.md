@@ -25,19 +25,12 @@
 
 \section{Skills}
 \subsection{Technical}
-\location{Proficient with:}
-javaScript (ES6+/Next) \textbullet{} Node.jS \textbullet{} React \textbullet{} Redux \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize\textbullet{} Passport\textbullet{} CSS/SASS StyledComponents\\
-\location{Familiar with:}
-TDD \textbullet{} Python \textbullet{} Typescript \textbullet{} Mocha/Chai \textbullet{} Design patterns (theory) \textbullet{} MongoDB \textbullet{} RESTful APIs \\
+javaScript (ES6+/Next) \textbullet{} Node.jS React/React Native \textbullet{} Redux \textbullet{} Typescript \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize\textbullet{} Passport\textbullet{} CSS/SASS StyledComponents \textbullet{} TDD \textbullet{} Mocha/Chai \textbullet{} RESTful APIs \textbullet{} MongoDB\\
 \location{Learning:}
-NestJS \textbullet{} React Native \textbullet{} GraphQL
+Python \textbullet{} GraphQL \textbullet{} Design patterns
 \sectionsep
-
 \subsection{Soft}
-\location{Strong:}
-Initiative \textbullet{} Planning \textbullet{} Teamwork Teaching \textbullet{} Public Speaking \\
-\location{Some experience with:}
-Scrum (agile development)
+Initiative \textbullet{} Planning \textbullet{} Pair Programming \textbullet{} Teamwork \textbullet{} Teaching \textbullet{} Scrum/Agile \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -127,7 +120,7 @@ Platform connecting companies with IT. Userbase of aprox. 5000. (React-Redux, Ex
 US based software outsourcing company.
 \begin{tightemize}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\item Developed API integrations, including tests, docs, and developer guides for each integration. (Node.js, Sequelize, Mocha, Chai.)
+\item Developed API integrations, including tests, docs, and developer guides for each integration.
 \item Onboarded junior software engineers.
 \end{tightemize}
 \sectionsep
