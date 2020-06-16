@@ -96,20 +96,17 @@ Coffee Tasting \textbullet{} Game Dev'ing
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item
+\textbf{Puppeteer Test} - An app that webscrapes a table, sample data from an API, saves it to a database, and serves it. (React TS, Node 14, Puppeteer)
+
+\item
 \textbf{Pokefinder} - App displaying pokemon sprites and info (Typescript, React.)
 
 \item
 \textbf{Cryptid} - CLI program to check on cryptocurrencies. (Node.)
 
 \item
-\textbf{jS} - SPA eCommerce (React, Node, Express, Sequelize)
+\textbf{Devflow} (Bootcamp Final Project) - IT Platform with a userbase of ~5000 (React-Redux, Express, Sequelize, Styled)
 
-\item
-\textbf{Devflow} (Bootcamp Final Project) -
-Platform connecting companies with IT. Userbase of aprox. 5000. (React-Redux, Express, Sequelize, Styled Comps.)
-
-\item
-\textbf{Hoard} - Expense tracker - WIP - (TS, React Native, NestJS, GraphQL.)
 \end{tightemize}
 \sectionsep
 
