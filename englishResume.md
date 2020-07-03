@@ -25,7 +25,7 @@
 
 \section{Skills}
 \subsection{Technical}
-javaScript (ES6+/Next) \textbullet{} Node.jS React/React Native \textbullet{} Redux \textbullet{} Typescript \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize\textbullet{} Passport\textbullet{} CSS/SASS StyledComponents \textbullet{} TDD \textbullet{} Mocha/Chai \textbullet{} RESTful APIs \textbullet{} MongoDB\\
+javaScript (ES6+/Next) \textbullet{} Node.jS React/React Native \textbullet{} Redux \textbullet{} Typescript \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize\textbullet{} Passport\textbullet{} CSS/SASS StyledComponents \textbullet{} TDD \textbullet{} Mocha/Chai \textbullet{} RESTful APIs \textbullet{} MongoDB\\ \textbullet{} Jest\\ \textbullet{} Vue\\
 \location{Learning:}
 Python \textbullet{} GraphQL \textbullet{} Design patterns
 \sectionsep
@@ -95,14 +95,15 @@ Coffee Tasting \textbullet{} Game Dev'ing
 \section{Projects}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
+
 \item
 \textbf{Puppeteer Test} - An app that webscrapes a table, sample data from an API, saves it to a database, and serves it. (React TS, Node 14, Puppeteer)
 
 \item
-\textbf{Pokefinder} - App displaying pokemon sprites and info (Typescript, React.)
+\textbf{Cryptid} - CLI program to check on cryptocurrencies. (Node 12.)
 
 \item
-\textbf{Cryptid} - CLI program to check on cryptocurrencies. (Node.)
+\textbf{To Do manager} - An animated to do manager (Vue, Node 12, Mongodb, express)
 
 \item
 \textbf{Devflow} (Bootcamp Final Project) - IT Platform with a userbase of ~5000 (React-Redux, Express, Sequelize, Styled)
@@ -117,8 +118,8 @@ Coffee Tasting \textbullet{} Game Dev'ing
 US based software outsourcing company.
 \begin{tightemize}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\item Developed API integrations, including tests, docs, and developer guides for each integration.
-\item Onboarded junior software engineers.
+\item Developed Node API integrations, including tests, design docs, and developer guides for each of them.
+\item Onboarded software engineers.
 \end{tightemize}
 \sectionsep
 
