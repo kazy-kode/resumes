@@ -115,11 +115,11 @@ Coffee Tasting \textbullet{} Game Dev'ing
 \runsubsection{Software Developer}
 \descript{| Kelsus Inc.}
 \location{Dec 2019 - Present | Remote}
-US based software outsourcing company.
+US based software outsourcing company.\\
+\textbf{Pax8:}
 \begin{tightemize}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \item Built a Javascript interpreter that mimicked the client's platform.
-\item Developed Node API, and API integrations, including tests, design docs, and developer guides for each of them.
+\item Managed clients, and developed Node APIs, and API integrations, including tests, design docs, and developer guides for each of them.
 \item Onboarded software engineers.
 \end{tightemize}
 \sectionsep
@@ -127,7 +127,6 @@ US based software outsourcing company.
 \runsubsection{Academic Translator}
 \descript{| Freelance }
 \location{Jul 2017 – Sep 2019 | Remote }
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Translated academic economic and social studies academic publishings.
 \end{tightemize}
@@ -137,7 +136,6 @@ US based software outsourcing company.
 \descript{| Hy Cyte, LLC }
 \location{Jan 2017 – Jul 2017 | BA, Argentina}
 International loan company focused on consumer credits.
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Approved and managed credits for small US companies, or residents.
 \item Trained new employees, some of which have since then become supervisors.
@@ -149,7 +147,6 @@ International loan company focused on consumer credits.
 \descript{| Geopubli S. L. }
 \location{Jan 2016 – Dec 2016 | Madrid, Spain \& Remote}
 Marketing company, with focus on digital media. Three subsidiaries were heavily dependant on it.
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Coordinated processes for over 10 campaigns, each with a budget of €5.000 - 10.000, including creating campaign/social media calendars.
 \item Created new opportunities for the companies by approaching traditional businesses in Madrid.
@@ -162,7 +159,6 @@ Marketing company, with focus on digital media. Three subsidiaries were heavily 
 \descript{| Fundación Leer}
 \location{May 2015 - Dec 2015 | BA, Argentina}
 NGO working towards the alphabetization of marginalized people. I was a full-time volunteer.
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Organized nation-wide, and province specific events.
 These events reached well over 1000 schools and learning centers. I created and supported a link with the suppliers of physical assets, and human capital needed for many of those events.
