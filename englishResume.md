@@ -25,7 +25,7 @@
 
 \section{Skills}
 \subsection{Technical}
-javaScript (ES6+/Next) \textbullet{} Node.jS React/React Native \textbullet{} Redux \textbullet{} Typescript \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize\textbullet{} Passport\textbullet{} CSS/SASS StyledComponents \textbullet{} TDD \textbullet{} Mocha/Chai \textbullet{} RESTful APIs \textbullet{} MongoDB\\ \textbullet{} Jest\\ \textbullet{} Vue\\
+javaScript (ES6+/Next) \textbullet{} Node.jS React/React Native \textbullet{} Redux \textbullet{} Typescript \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize\textbullet{} Passport\textbullet{} CSS/SASS StyledComponents \textbullet{} TDD \textbullet{} Mocha/Chai \textbullet{} RESTful APIs \textbullet{} MongoDB \textbullet{} Jest \textbullet{} Vue\\
 \location{Learning:}
 Python \textbullet{} GraphQL \textbullet{} Design patterns
 \sectionsep
@@ -118,6 +118,7 @@ Coffee Tasting \textbullet{} Game Dev'ing
 US based software outsourcing company.
 \begin{tightemize}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\item Built a Javascript interpreter that mimicked the client's platform.
 \item Developed Node API integrations, including tests, design docs, and developer guides for each of them.
 \item Onboarded software engineers.
 \end{tightemize}
@@ -152,7 +153,7 @@ Marketing company, with focus on digital media. Three subsidiaries were heavily 
 \begin{tightemize}
 \item Coordinated processes for over 10 campaigns, each with a budget of €5.000 - 10.000, including creating campaign/social media calendars.
 \item Created new opportunities for the companies by approaching traditional businesses in Madrid.
-\item Managed Enterprise Resource Planning and Customer Relationship Management software.
+\item Managed ERP and CRM software.
 \end{tightemize}
 \sectionsep
 
