@@ -1,6 +1,6 @@
 {
   "name": "resumes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "push": "git add . && git commit -m 'update' && git push origin master"
