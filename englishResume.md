@@ -25,12 +25,10 @@
 
 \section{Skills}
 \subsection{Technical}
-javaScript (ES6+/Next) \textbullet{} Node React/React Native \textbullet{} Redux \textbullet{} Typescript \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize\textbullet{} Passport\textbullet{} CSS/SASS StyledComponents \textbullet{} TDD \textbullet{} Mocha/Chai \textbullet{} RESTful APIs \textbullet{} MongoDB \textbullet{} Jest \textbullet{} Vue\\
-\location{Learning:}
-Python \textbullet{} GraphQL \textbullet{} Design patterns
+javaScript (ES6+/Next) \textbullet{} Node React/React Native \textbullet{} Redux \textbullet{} Typescript \textbullet{} Express \textbullet{} PSQL \textbullet{} Sequelize\textbullet{} Passport\textbullet{} CSS/SASS StyledComponents \textbullet{} TDD \textbullet{} Mocha/Chai \textbullet{} RESTful APIs \textbullet{} MongoDB \textbullet{} Jest \textbullet{} Vue \textbullet{} Design patterns \textbullet{} Python \textbullet{} MaterialUI \textbullet{} AdonisJS \textbullet{} NextJs \textbullet{} MVC (Model-view-controller) \textbullet{} RESTful API \textbullet{} Vercel
 \sectionsep
 \subsection{Soft}
-Initiative \textbullet{} Planning \textbullet{} Pair Programming \textbullet{} Teamwork \textbullet{} Teaching \textbullet{} Scrum/Agile \\
+Initiative \textbullet{} Planning \\ \textbullet{} Pair Programming \textbullet{} Teamwork \\ \textbullet{} Teaching \textbullet{} Scrum/Agile
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -92,35 +90,29 @@ Coffee Tasting \textbullet{} Game Dev'ing
 % EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Projects}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\section{Work Experience}
+
+\runsubsection{Software Developer}
+\descript{| Optic Power.}
+\location{Jul 2020 - Present | Remote}
+\textbf{Client and scope:} MundoLMS is a whitelabeling service for tenants who wish to set up a learning management system.\\
+\textbf{Stack:} React, NextJs, AdonisJs, Material-UI, Vercel
 \begin{tightemize}
-
-\item
-\textbf{Puppeteer Test} - An app that webscrapes a table, sample data from an API, saves it to a database, and serves it. (React TS, Node 14, Puppeteer)
-
-\item
-\textbf{Cryptid} - CLI program to check on cryptocurrencies. (Node 12.)
-
-\item
-\textbf{To Do manager} - An animated to do manager (Vue, Node 12, Mongodb, express)
-
-\item
-\textbf{Devflow} (Bootcamp Final Project) - IT Platform with a userbase of ~5000 (React-Redux, Express, Sequelize, Styled)
-
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\item Currently WIP.
 \end{tightemize}
 \sectionsep
 
-\section{Work Experience}
-\runsubsection{Software Developer}
+\runsubsection{Back End Developer}
 \descript{| Kelsus Inc.}
-\location{Dec 2019 - Present | Remote}
+\location{Dec 2019 - Jul 2020 | Remote}
 US based software outsourcing company.\\
-\textbf{Pax8:}
+\textbf{Client and scope:} Pax8 handles and provides different services and licenses for cloud-based products. \\
+\textbf{Stack:} Javascript/Node, Mocha, Chai, Sinon, Rollup, Supertest, REST API
 \begin{tightemize}
-\item Built a Javascript interpreter that mimicked the client's platform.
-\item Managed clients, and developed Node APIs, and API integrations, including tests, design docs, and developer guides for each of them.
-\item Onboarded software engineers.
+\item Built a Javascript interpreter that mimicked the Pax8's platform.
+\item Managed Pax8's clients, and developed APIs and API integrations, including tests, design docs, and developer guides for each of them.
+\item Onboarded and trained software engineers.
 \end{tightemize}
 \sectionsep
 
@@ -128,18 +120,18 @@ US based software outsourcing company.\\
 \descript{| Freelance }
 \location{Jul 2017 – Sep 2019 | Remote }
 \begin{tightemize}
-\item Translated academic economic and social studies academic publishings.
+\item Translated academic papers regarding economics and social studies.
 \end{tightemize}
 \sectionsep
 
 \runsubsection{Credit Agent}
 \descript{| Hy Cyte, LLC }
-\location{Jan 2017 – Jul 2017 | BA, Argentina}
+\location{Jan 2017 – Jul 2017 | BA, Argentina & Remote}
 International loan company focused on consumer credits.
 \begin{tightemize}
 \item Approved and managed credits for small US companies, or residents.
 \item Trained new employees, some of which have since then become supervisors.
-\item Edited the employee manual with a small team to enforce new standards.
+\item Edited an employee manual with a small team to enforce new standards.
 \end{tightemize}
 \sectionsep
 
@@ -154,15 +146,16 @@ Marketing company, with focus on digital media. Three subsidiaries were heavily 
 \end{tightemize}
 \sectionsep
 
-\section{Volunteer Work}
-\runsubsection{Office Manager}
-\descript{| Fundación Leer}
-\location{May 2015 - Dec 2015 | BA, Argentina}
-NGO working towards the alphabetization of marginalized people. I was a full-time volunteer.
+\section{Other Projects}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Organized nation-wide, and province specific events.
-These events reached well over 1000 schools and learning centers. I created and supported a link with the suppliers of physical assets, and human capital needed for many of those events.
-\item Restructured the NGO's database.
+
+\item
+\textbf{Devflow} (Bootcamp Final Project) - IT Platform with a userbase of ~5000 (React-Redux, Express, Sequelize, Styled Components)
+
+\item
+\textbf{Cryptid} - CLI program to check on cryptocurrencies. (Node 12.)
+
 \end{tightemize}
 \sectionsep
 

@@ -1,0 +1,5 @@
+Open to relocation: Prefer Australia/New Zealand, or Europe.
+
+I'm a Full stack developer, I graduated a Coding Bootcamp after shifting my finance career towards my lifelong passion of programming. Currently working as a software developer specializing in single page applications (React), and back end RESTful apis (Node).
+I'm always seeking to challenge my skills; learning and teaching never stop :)
+On my spare time, I enjoy reading medical research, working out, and learning the ropes of game developing.
