@@ -93,10 +93,10 @@ Coffee Tasting \textbullet{} Game Dev'ing
 \section{Work Experience}
 
 \runsubsection{Software Developer}
-\descript{| Optic Power.}
+\descript{| Optic Power}
 \location{Jul 2020 - Present | Remote}
-\textbf{Client and scope:} MundoLMS is a whitelabeling service for tenants who wish to set up a learning management system.\\
-\textbf{Stack:} React, NextJs, AdonisJs, Material-UI, Vercel
+\textbf{Client and scope:} MundoLMS is a whitelabeling service for tenants who wish to set up a learning management system (online courses/classes).\\
+\textbf{Stack:} Typescript/Javascript/Node, React, NextJs, AdonisJs, Material-UI, Vercel, Heroku, Redis, Bull
 \begin{tightemize}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \item Currently WIP.
